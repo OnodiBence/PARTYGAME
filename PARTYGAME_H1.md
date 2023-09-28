@@ -1,8 +1,8 @@
 ﻿# PARTYGAME projekt tervezet
 *Olyan alkalmazást szeretnénk megvalósítani, ami egy házibuli megszervezésében nyújt segítséget.*
 
-**Gyakorlatvezető:** Árvai László
-**Csoport tagjai:**
+#### **Gyakorlatvezető:** Árvai László
+#### **Csoport tagjai:**
 
 |NÉV|NEPTUN KÓD|EMAIL|
 | :-: | :-: | :-: |
