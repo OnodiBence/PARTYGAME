@@ -57,11 +57,11 @@ Visual Studio Code, Github, Trello és a Discord legfrissebb verzióit fogjuk ha
 Minden csoporttag ugyanolyan felszerelést kap a mindennapi munkavégzéshez, egy laptopot, monitort, billentyűzetet, egeret és headsetet. A használt alkalmazásokkal előre telepítve fogják megkapni a számítógépet, hogy ezzel már ne nekik kelljen foglalkozni.
 
 ### **Leendő produktumok (dokumentum), és létrejöttük ideje.**
-> **H1:** Projekt vázlat - 3. tanulmányi hét
-> **H2:** Megvalósíthatósági tanulmány - 6. tanulmányi hét
-> **H3:** SRS dokumentum elkészülése - 8. tanulmányi hét
-> **H4:** Tervezési munkák véglegesítése - 11. tanulmányi hét
-> **H5:** Dokumentáció és projekt véglegesítése - 13. tanulmányi hét
+ **H1:** Projekt vázlat - 3. tanulmányi hét
+ **H2:** Megvalósíthatósági tanulmány - 6. tanulmányi hét
+ **H3:** SRS dokumentum elkészülése - 8. tanulmányi hét
+ **H4:** Tervezési munkák véglegesítése - 11. tanulmányi hét
+ **H5:** Dokumentáció és projekt véglegesítése - 13. tanulmányi hét
 
 ### **Tesztelési követelmények**
 A csoport a véglegesnek tekinthető verzió után tervez kiadni egy bétát, amire meghívásos rendszer alapján lehet jelentkezni. Fontos, hogy ekkorra már a For you oldal algoritmusa hibamentesen fusson. Emellett az alkalmazásnak a fejlesztők által tesztelve már teljesen stabilan kell működnie, hiszen egy negatív visszajelzésű béta verzió kiadása a jövőbeli tervek miatt nem megengedhető. Tehát az esetleges rejtett, vagy akár összeomláshoz vezető hibákat a fejlesztőknek ki kell küszöbölni mihamarabb. Erre a legjobb megoldás, ha egymásnak kell készíteni Code Reviewt, ami alapján egymás hibáit ki tudják javítani
