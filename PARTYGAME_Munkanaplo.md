@@ -12,14 +12,14 @@
 |Karajz Bence|RKFHE0|karajzbence2000@gmail.com|
 
 #### H1 tartalma
-1. Csoport tagjai, struktúrája ÓB
-1. Fejlesztési terv: mérföldkövek, eredmények ÓB
-1. Programozói nyelvek, fejlesztő eszközök KB
-1. Használni tervezett eszközök, technikák BR
-1. Leendő produktumok (dokumentum), és létrejöttük ideje GF
-1. Tesztelési követelmények CM
-1. Bemutatás (demó) és szállítás módja, ideje GF
-1. Információforrások CM
+1. Csoport tagjai, struktúrája
+1. Fejlesztési terv: mérföldkövek, eredmények
+1. Programozói nyelvek, fejlesztő eszközök
+1. Használni tervezett eszközök, technikák
+1. Leendő produktumok (dokumentum), és létrejöttük ideje
+1. Tesztelési követelmények
+1. Bemutatás (demó) és szállítás módja, ideje
+1. Információforrások
 
 #### H1 elkészítésének naplózása
 |NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
