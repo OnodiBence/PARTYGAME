@@ -43,7 +43,7 @@ A csoport egy előzetes online meeting tart megbeszélést, ahol mindenki elmond
 1. UI és UX megvalósítása
 1. Adatbázis létrehozása
 1. Funkciók lefejlesztése
-1. ` `Tesztelés, Béta verzió kiadása
+1. Tesztelés, Béta verzió kiadása
 
 ### **Programozói nyelvek, fejlesztő eszközök**
 Alkalmazásunkat webes, és mobil változatban is szeretnénk lefejleszteni. A webes felületen könnyebb lenne a szervezőknek létrehozni, és szerkeszteni az eseményeket, mobilos változatban viszont a résztvevőknek lenne egyszerűbb a keresgélés.
