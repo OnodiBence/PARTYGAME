@@ -8,20 +8,20 @@
 | :-: | :-: | :-: |
 |Ónodi Bence|RYSNLC|onodibenc@gmail.com|
 |Gáspár Fanni|VFX06G|fanni.gaspar@gmail.com|
-|Baffi Réka|F4IIYA|baffir@gmail.com|
+|Baffi Réka|F4IIYA|baffir2@gmail.com|
 |Csőre Margaréta|G50NCO|csmargareta2001@gmail.com|
 |Karajz Bence|RKFHE0|karajzbence2000@gmail.com|
 
 
 ### H2 tartalma
-1. A probléma megfogalmazása
+>1. A probléma megfogalmazása
 1. A termék helye
 1. Felhasználói környezet
-1. A termék használatának előnyei
+>1. A termék használatának előnyei
 1. Feltételezések és függőségek
 1. A végtermék jellemzői
-1. Minőségi elvárások
-1. Kockázat lista
+>1. Minőségi elvárások
+>1. Kockázat lista
 2. Szótár
 
 #### H2 elkészítésének naplózása
