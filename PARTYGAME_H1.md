@@ -8,20 +8,20 @@
 | :-: | :-: | :-: |
 |Ónodi Bence|RYSNLC|onodibenc@gmail.com|
 |Gáspár Fanni|VFX06G|fanni.gaspar@gmail.com|
-|Baffi Réka|F4IIYA|baffir@gmail.com|
+|Baffi Réka|F4IIYA|baffir2@gmail.com|
 |Csőre Margaréta|G50NCO|csmargareta2001@gmail.com|
 |Karajz Bence|RKFHE0|karajzbence2000@gmail.com|
 
 
 #### H1 tartalma
-1. Csoport tagjai, struktúrája
-1. Fejlesztési terv: mérföldkövek, eredmények
-1. Programozói nyelvek, fejlesztő eszközök
-1. Használni tervezett eszközök, technikák
-1. Leendő produktumok (dokumentum), és létrejöttük ideje
-1. Tesztelési követelmények
-1. Bemutatás (demó) és szállítás módja, ideje
-1. Információforrások
+>1. Csoport tagjai, struktúrája
+>1. Fejlesztési terv: mérföldkövek, eredmények
+>1. Programozói nyelvek, fejlesztő eszközök
+>1. Használni tervezett eszközök, technikák
+>1. Leendő produktumok (dokumentum), és létrejöttük ideje
+>1. Tesztelési követelmények
+>1. Bemutatás (demó) és szállítás módja, ideje
+>1. Információforrások
 
 
 #### H1 elkészítésének naplózása
