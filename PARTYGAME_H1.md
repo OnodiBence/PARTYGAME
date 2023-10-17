@@ -23,6 +23,17 @@
 1. Bemutatás (demó) és szállítás módja, ideje
 1. Információforrások
 
+
+#### H1 elkészítésének naplózása
+|NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
+| :-: | :-: | :-: | :-: |
+|Ónodi Bence|RYSNLC|Csoport tagjai, struktúrája; Fejlesztési terv: mérföldkövek, eredmények|20%|
+|Gáspár Fanni|VFX06G|Leendő produktumok (dokumentum), és létrejöttük ideje; Bemutatás (demó) és szállítás módja, ideje|20%|
+|Baffi Réka|F4IIYA|Használni tervezett eszközök, technikák; Kapcsolatfelvétel|20%|
+|Csőre Margaréta|G50NCO|Tesztelési követelmények; Információforrások|20%|
+|Karajz Bence|RKFHE0|Programozói nyelvek, fejlesztő eszközök; Markdown fájl létrehozása|20%|
+
+
 ### **Csoport tagjai, struktúrája**
 A **PARTYGAME** egy olyan webes, illetve mobil alkalmazás, amely a szocializálódni vágyó fiatalok számára nyújt segítséget. 
 Az alkalmazásnak két fő célja van, az egyik a szervező félnek nyújt segítséget, hogy azt a rendezvényt, amit ő szeretne megrendezni, azt a lehető legtöbb helyre el tudja juttatni, ezáltal elősegítve a rendezvény sikerességét. A másik pedig a résztvevő félnek lehetőséget nyújtani olyan rendezvények részvételén, ami az érdeklődési körének legmegfelelőbb, és amelyen a legtöbb ismerőse, szaktársa részt vesz. 
