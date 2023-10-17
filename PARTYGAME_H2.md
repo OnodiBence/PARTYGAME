@@ -24,6 +24,15 @@
 1. Kockázat lista
 2. Szótár
 
+#### H2 elkészítésének naplózása
+|NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
+| :-: | :-: | :-: | :-: |
+|Ónodi Bence|RYSNLC||%|
+|Gáspár Fanni|VFX06G||%|
+|Baffi Réka|F4IIYA||%|
+|Csőre Margaréta|G50NCO||%|
+|Karajz Bence|RKFHE0||%|
+
 ## **A probléma megfogalmazása**
 Minden korosztálynak fontos, hogy egy olyan modern és intuitív platform álljon rendelkezésre számukra, amely lehetővé teszi, hogy könnyedén és hatékonyan szervezhessenek és vegyenek részt különböző eseményeken. Legyen szó akár családi összejövetelekről, baráti találkozókról vagy éppen kulturális rendezvényekről, a megfelelő szervezési eszközök nélkül sokszor nehézkes lehet a részvétel. Sajnos jelenleg nem található olyan alkalmazás a piacon, amely specifikusan a fiatalok dinamikus igényeire lenne szabva, ami megnehezíti számukra a szervezést és részvételt az általuk kedvelt eseményeken. Ez a hiányosság ráadásul azt eredményezheti, hogy olyan értékes lehetőségek veszhetnek el, amelyeket egy jól működő szervezési platform kínálhatna, és ezáltal elszalaszthatják azokat a pillanatokat, amelyekből emlékezetes élmények születhetnének. Ezért van szükség egy olyan innovatív megoldásra, mint a Party Game alkalmazás, amely megfelel a fiatalok elvárásainak és lehetővé teszi számukra, hogy könnyedén szervezzenek és részt vegyenek különféle eseményeken, ezzel is erősítve a közösségi élmények fontosságát.
 
