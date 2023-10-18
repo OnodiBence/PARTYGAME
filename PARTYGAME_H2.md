@@ -1,8 +1,8 @@
 ﻿# PARTYGAME vízió dokumentum
-*Olyan alkalmazást szeretnénk megvalósítani, ami egy házibuli megszervezésében nyújt segítséget.*
+Olyan alkalmazást szeretnénk megvalósítani, ami egy házibuli megszervezésében nyújt segítséget.
 
-#### **Gyakorlatvezető:** Árvai László
-#### **Csoport tagjai:**
+#### Gyakorlatvezető: Árvai László
+#### Csoport tagjai:
 
 |NÉV|NEPTUN KÓD|EMAIL|
 | :-: | :-: | :-: |
@@ -19,7 +19,7 @@
 >1. Felhasználói környezet
 >1. A termék használatának előnyei
 >1. Feltételezések és függőségek
-1. A végtermék jellemzői
+>1. A végtermék jellemzői
 >1. Minőségi elvárások
 >1. Kockázat lista
 2. Szótár
@@ -33,16 +33,21 @@
 |Csőre Margaréta|G50NCO||%|
 |Karajz Bence|RKFHE0||%|
 
-## **A probléma megfogalmazása**
+## A probléma megfogalmazása
 Minden korosztálynak fontos, hogy egy olyan modern és intuitív platform álljon rendelkezésre számukra, amely lehetővé teszi, hogy könnyedén és hatékonyan szervezhessenek és vegyenek részt különböző eseményeken. Legyen szó akár családi összejövetelekről, baráti találkozókról vagy éppen kulturális rendezvényekről, a megfelelő szervezési eszközök nélkül sokszor nehézkes lehet a részvétel. Sajnos jelenleg nem található olyan alkalmazás a piacon, amely specifikusan a fiatalok dinamikus igényeire lenne szabva, ami megnehezíti számukra a szervezést és részvételt az általuk kedvelt eseményeken. Ez a hiányosság ráadásul azt eredményezheti, hogy olyan értékes lehetőségek veszhetnek el, amelyeket egy jól működő szervezési platform kínálhatna, és ezáltal elszalaszthatják azokat a pillanatokat, amelyekből emlékezetes élmények születhetnének. Ezért van szükség egy olyan innovatív megoldásra, mint a Party Game alkalmazás, amely megfelel a fiatalok elvárásainak és lehetővé teszi számukra, hogy könnyedén szervezzenek és részt vegyenek különféle eseményeken, ezzel is erősítve a közösségi élmények fontosságát.
 
 
-## **Felhasználói kornyezet**
-#### **Bejelentkezés/Regisztráció:**
+## A termék helye
+Az alkalmazás első sorban fiataloknak készül, segít nekik megtalálni a környéken lévő bulikat. Emellett segít nekik új barátokat találni.
+Az alkalmazás fő célja a szórakoztatás.
+
+
+## Felhasználói kornyezet
+#### Bejelentkezés/Regisztráció:
 Az alkalmazás kezdetén engedélyezzük a felhasználóknak, hogy hozzanak létre fiókot vagy jelentkezzenek be meglévő fiókjaikkal.
-#### **Főképernyő:**
+#### Főképernyő:
 Itt találhatók a fő funkciók és lehetőségek. 
-### **Fő fnkciók és lehetőségek:**
+### Fő fnkciók és lehetőségek:
 #### Bulik böngészése: 
 Ezen a képernyőn böngészhetik a felhasználók a közelgő bulikat, amelyeket mások szerveztek.
 #### Résztvevők keresése: 
@@ -59,29 +64,10 @@ Itt módosíthatják fiókjuk beállításait és preferenciáikat.
 A felhasználók kapnak értesítéseket például akkor, ha valaki meghívja őket egy bulira vagy üzenetet küld nekik.
 #### Keresés és szűrés: 
 Felhasználók böngészhetik a bulikat és kereső funkcióval szűrhetik azokat, például hely vagy idő alapján.
-#### **A PartyGame alkalmazás felhasználói környezete barátságos és könnyen használható kell legyen, hogy segítse a felhasználókat a bulik szervezésében és részvételében. Az alkalmazásnak intuitív menürendszert és gombokat kell tartalmaznia, valamint könnyen érthető navigációt. Emellett fontos az alkalmazás szép és vonzó dizájnja, amely vonzza és megtartja a felhasználókat.**
+#### A PartyGame alkalmazás felhasználói környezete barátságos és könnyen használható kell legyen, hogy segítse a felhasználókat a bulik szervezésében és részvételében. Az alkalmazásnak intuitív menürendszert és gombokat kell tartalmaznia, valamint könnyen érthető navigációt. Emellett fontos az alkalmazás szép és vonzó dizájnja, amely vonzza és megtartja a felhasználókat.
 
 
-## **Minőségi elvárások**
-Az alkalmazásunknak meg kell felelnie a mai felhasználói elvárásoknak, amelyeket három kategóriába soroltunk.
-#### **1. Teljesítmény:**
-  Az alkalmazásnak zökkenőmentesen kell futnia anélkül, hogy összeomlana.
-  A funkcióknak gyorsan és hiba nélkül kell működniük.
-  Az alkalmazásnak minimálisnak kell lennie az eszköz terhelésére.
-  Az adatoknak valós időben kell továbbítódniuk.
-#### **2. Biztonság:**
-  A felhasználói adatoknak titkosítva kell lenniük.
-  A jelszavaknak kis- és nagybetűket, számokat és speciális karaktereket kell tartalmazniuk.
-  Meg kell határozni egy limitet a sikertelen jelszókísérletek számára.
-  A felhasználói bemeneteket ellenőrizni és validálni kell.
-#### **3. Felhasználóbarát funkciók:**
-  Az alkalmazás képesnek kell lennie az írott szöveg felolvasására, amennyiben a készülék ezt támogatja.
-  Az alkalmazás felhasználói felülete könnyen áttekinthető és navigálható kell legyen.
-  A kontrasztos színeket kell használni a jobb olvashatóság érdekében.
-  A felhasználóknak lehetőséget kell adni a világos és sötét témák közötti váltásra.
-
-
-## **Termék Használatának Előnyei**
+## Termék Használatának Előnyei
 #### Közeli Bulik Felfedezése: 
 A PartyGame alkalmazás lehetővé teszi, hogy könnyen felfedezd a közeledben lévő bulikat és eseményeket. Egy interaktív térképen megtekintheted az összes közeli eseményt, így sosem maradsz le egy jó buliról sem.
 #### Házibuli Tervezése: 
@@ -104,15 +90,56 @@ Az alkalmazás segít az embereknek új barátokat találni, akik hasonló érde
 Kiválaszthatod a saját érdeklődési körödnek megfelelő eseményeket a különböző tematikus szűrők segítségével, így könnyedén megtalálhatod a neked való bulikat.
 A PartyGame alkalmazás használatával egyszerűbben és gyorsabban megtalálhatod a legjobb eseményeket és könnyedén tervezhetsz saját bulikat, növelve ezzel az életed szórakoztató és társasági élményeit.
 
-## **Feltételezések és függőségek**
+
+## Feltételezések és függőségek
 Az alkalmazás internetkapcsolatot igényel, hogy működjön, és valószínűleg elérhető webes és mobil platformokon is. Az alkalmazás függősége a felhasználók aktivitásától és részvételétől, valamint az események szervezőinek és résztvevőinek számától.
 
-## **A termék helye**
-Az alkalmazás első sorban fiataloknak készül, segít nekik megtalálni a környéken lévő bulikat. Emellett segít nekik új barátokat találni.
-Az alkalmazás fő célja a szórakoztatás.
+
+## A végtermék jellemzői
+### Képességek és erőforrások hiánya: 
+Nincs elegendő tapasztalat és erőforrás a fejlesztőcsapatban.
+### Technológiai kockázatok: 
+Az alkalmazás fejlesztése során használt technológiák és platformok változhatnak vagyelavulhatnak.
+### Felhasználói interfész tervezési problémák: 
+A felhasználói élmény nem megfelelő vagy az alkalmazás nehezenhasználható.
+### Biztonsági kockázatok: 
+Az alkalmazás sérülékeny lehet a támadásokkal szemben, például adatszivárgás vagyilletéktelen hozzáférés miatt.
+### Teljesítmény és skálázhatóság: 
+Az alkalmazás nem működik megfelelően felhasználói terhelés alatt.
+### Integrációs kihívások: 
+A harmadik féltől származó rendszerek vagy API-k integrálása nehézségeket okozhat.
+### Szabványok és szabályozások:
+Az alkalmazásnak meg kell felelnie a jogszabályoknak és iparági szabványoknak,amelyek változhatnak (pl: GDPR).
+### Projektmenedzsment kockázatok: 
+Idő- és költség-túllépés, erőforrások elérhetősége és az ütemterv késedelme.
+### Felhasználói visszajelzés hiánya: 
+Nem megfelelő visszajelzés vagy kutatás hiánya vezethet olyan problémákhoz,amelyeket csak később ismerünk fel.
+### Követelmények változása:
+A felhasználók változtathatnak az alkalmazás követelményein, amelyek hatássallehetnek a projekt időzítésére és költségére.
+### Tesztelési és minőségbiztosítási kockázatok: 
+Nem megfelelő tesztelés és minőségellenőrzés eredményezhethibákat és problémákat a későbbi fázisokban.
 
 
-## **Kockázat lista**
+## Minőségi elvárások
+Az alkalmazásunknak meg kell felelnie a mai felhasználói elvárásoknak, amelyeket három kategóriába soroltunk.
+#### 1. Teljesítmény:
+  Az alkalmazásnak zökkenőmentesen kell futnia anélkül, hogy összeomlana.
+  A funkcióknak gyorsan és hiba nélkül kell működniük.
+  Az alkalmazásnak minimálisnak kell lennie az eszköz terhelésére.
+  Az adatoknak valós időben kell továbbítódniuk.
+#### 2. Biztonság:
+  A felhasználói adatoknak titkosítva kell lenniük.
+  A jelszavaknak kis- és nagybetűket, számokat és speciális karaktereket kell tartalmazniuk.
+  Meg kell határozni egy limitet a sikertelen jelszókísérletek számára.
+  A felhasználói bemeneteket ellenőrizni és validálni kell.
+#### 3. Felhasználóbarát funkciók:
+  Az alkalmazás képesnek kell lennie az írott szöveg felolvasására, amennyiben a készülék ezt támogatja.
+  Az alkalmazás felhasználói felülete könnyen áttekinthető és navigálható kell legyen.
+  A kontrasztos színeket kell használni a jobb olvashatóság érdekében.
+  A felhasználóknak lehetőséget kell adni a világos és sötét témák közötti váltásra.
+
+
+## Kockázat lista
 #### Képességek és erőforrások hiánya: 
 Nincs elegendő tapasztalat és erőforrás a fejlesztőcsapatban.
 #### Technológiai kockázatok: 
