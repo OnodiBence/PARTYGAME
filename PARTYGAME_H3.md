@@ -23,7 +23,7 @@
 1. Tervezési korlátozások
 1. Online dokumentáció és help rendszer
 1. Felhasznált kész komponensek
-1. Interfészek
+>1. Interfészek
 1. Alkalmazott szabványok
 1. Mellékletek
 
@@ -130,3 +130,55 @@ A szoftvernek képesnek kell lennie egyszerre több ezer aktív felhasználó ke
 - Memória igény: Legalább 2 GB RAM ajánlott az alkalmazás futtatásához és az egyszerre több feladat kezeléséhez.
 - Tárhely: Az alkalmazás telepítéséhez szükséges minimális tárhely igény 100 MB.
 - Sávszélesség: Egy stabil, alacsony sávszélességű internetkapcsolat (legalább 10 Mbps) elegendő az alkalmazás használatához.
+
+### **Interfészek**
+#### 1. Bejelentkezés/Regisztráció:
+- Kezdőképernyőn lehetőség van bejelentkezésre vagy regisztrációra.
+- Bejelentkezéshez kérjük a felhasználónevet és jelszót.
+- Regisztrációhoz kérjük megadni egy felhasználónevet, jelszót, e-mail címet és egy profilképet.
+
+#### 2. Főképernyő:
+A főképernyőn találhatók a következő fő funkciók:
+- "Új Buli Szervezése" gomb: Hozzon létre egy új házibulit.
+- "Bulik Böngészése" gomb: Tekintse meg a közelgő bulikat más felhasználóktól.
+- "Résztvevők Keresése" gomb: Keresse meg más felhasználókat a közelben.
+
+#### 3. Buli Szervezése:
+Amikor egy bulit szeretne szervezni, lehetősége van megadni:
+- Buli neve.
+- Helyszín.
+- Időpont.
+- Leírás.
+- Résztvevők száma vagy meghívottak listája.
+
+#### 4. Bulik Böngészése:
+- Itt láthatja a közelgő bulikat egy listában.
+- Minden buli mellett szerepel egy rövid leírás, helyszín, időpont és a résztvevők száma.
+- Kattintással megtekintheti a buli részleteit.
+
+#### 5. Résztvevők Keresése:
+- Egy kereső mező segítségével keressen más felhasználókat a közelben.
+- Találatok listájában jelenjenek meg a felhasználók profil képével és felhasználónevükkel.
+
+#### 6. Buli Részletek:
+- Itt találja a kiválasztott buli részleteit, például helyszín, időpont és résztvevők.
+- Csatlakozási gomb vagy üzenetküldési lehetőség a szervezőnek.
+
+#### 7. Profil:
+- Felhasználói profil képe és neve.
+- Bemutatkozás és további információk megjelenítése.
+- Lehetőség a profil szerkesztésére.
+
+#### 8. Üzenetküldés:
+Az alkalmazáson belüli üzenetküldő rendszer egyszerű, áttekinthető és gyors legyen.
+
+#### 9. Beállítások:
+Beállítások kezelése, például fiókinformációk és értesítési beállítások módosítása.
+
+#### 10. Értesítések:
+Értesítések jelenjenek meg, például meghívások vagy üzenetek érkezésekor.
+
+#### 11. Keresés és szűrés:
+Könnyű kereső és szűrési lehetőségek a bulik között, például hely, dátum és résztvevők szám szerint.
+
+Fontos, hogy az alkalmazás felhasználói interfésze intuitív és könnyen kezelhető legyen, és az elemek legyenek könnyen elérhetők a felhasználók számára. Emellett vegye figyelembe az esztétikai szempontokat is, hogy vonzó és szórakoztató legyen az alkalmazás használata.
