@@ -21,7 +21,7 @@
 >1. Teljesítmény
 1. Támogatottság
 1. Tervezési korlátozások
-1. Online dokumentáció és help rendszer
+>1. Online dokumentáció és help rendszer
 1. Felhasznált kész komponensek
 >1. Interfészek
 1. Alkalmazott szabványok
@@ -130,6 +130,9 @@ A szoftvernek képesnek kell lennie egyszerre több ezer aktív felhasználó ke
 - Memória igény: Legalább 2 GB RAM ajánlott az alkalmazás futtatásához és az egyszerre több feladat kezeléséhez.
 - Tárhely: Az alkalmazás telepítéséhez szükséges minimális tárhely igény 100 MB.
 - Sávszélesség: Egy stabil, alacsony sávszélességű internetkapcsolat (legalább 10 Mbps) elegendő az alkalmazás használatához.
+
+### **Online dokumentáció és Help rendszer**
+Online útmutató és Help rendszer minden támogatott nyelven. Ingyenes ügyfeleknek e-mail segítségnyújtás. Prémium ügyfeleknek online chat támogatás. Munkaidőn kívül chatbot a chat szolgáltatásban. Gyakran ismételt kérdések szekció az összes felhasználó számára. Az alkalmazásfejlesztő vagy csapat segít a beállításokban és testreszabásban.
 
 ### **Interfészek**
 #### 1. Bejelentkezés/Regisztráció:
