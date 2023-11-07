@@ -15,10 +15,10 @@
 #### H3 tartalma
 >1. Bevezetés
 >1. Áttekintés
-1. A rendszer funkciói
-1. Használhatóság
-1. Megbízhatóság
-1. Teljesítmény
+>1. A rendszer funkciói
+>1. Használhatóság
+>1. Megbízhatóság
+>1. Teljesítmény
 1. Támogatottság
 1. Tervezési korlátozások
 1. Online dokumentáció és help rendszer
@@ -94,3 +94,39 @@ Az eseményekről tud fogadni értesítéseket, valamint direkt megkereséseket 
 
 ### **Használhatóság**
 A projekt legfőbb célja, hogy egy olyan alkalmazást hozzunk létre, amely segíti a fiatalság, és a jövőben az idősebbek kapcsolattartását különböző rendezvényeken keresztül. Az alkalmazás felületének lényege, hogy bárki egyből tudja használni. Ne legyen tutorial, hanem minden magától értetődően működjön. Ezért a felületek kezelése és működési elve sokban fog hasonlítani más, konkurens alkalmazáshoz. Ez elkerülhetetlen, viszont mint mindenen, a konkurensek alkalmazásán is lehet csiszolni, és mi ezt szeretnénk elérni. 
+
+### **Megbízhatósági elvárások**
+Rendelkezésre állás (Availability): Legalább 99% rendelkezésre állás éves szinten.
+Ez a megbízhatósági követelmény azt jelenti, hogy az alkalmazásnak éves szinten legfeljebb 87,6 órás (365 nap \ *24 óra * 1%) összesített kiesési idő megengedett.
+
+MTBF (Mean Time Between Failures): A tesztidőszakban, évente 12 hiba fordult elő és egy hibát átlagosan 2 óra alatt elhárítottunk, így hibák fellépése között várható idő 728 óra.
+
+Rendelkezésre állási idő = (365 \ *24) – (12*2) = 8736 óra
+
+MTBF = Rendelkezésre állás / Hibák száma
+MTBF = 8736 óra / 12 = 728 óra
+
+MTTR (Mean Time To Repair): Egy év alatt 12 hiba jelent meg, és összesen 24 óra volt a karbantartási idő. Így az átlagos karbantartási idő 2 óra volt.
+
+MTTR = Karbantartással eltöltött idő / Hibák száma
+MTTR = 24 óra/12 hiba = 2 óra/hiba
+
+### **Teljesítmény-mérések**
+#### Adatbázis Teljesítmény
+Az adatbázisnak hatékonyan kell kezelnie a lekérdezéseket és az adatok szervezését.
+A lekérdezések válaszideje nem haladhatja meg a 50 milliszekundumot.
+
+#### Válaszidők
+A felhasználói interakciók válaszideje nem haladhatja meg az 1 másodpercet normál hálózati körülmények között.
+Az oldalak betöltési sebessége nem haladhatja meg az 1 másodpercet egy átlagos internetsebességű (100-150mbps) felhasználóknál, normál hálózati körülmények között.
+A szoftvernek gyorsan kell kezelnie a képek és videók feltöltését és letöltését.
+A médiafájlok feldolgozásának és megjelenítésének válaszideje nem haladhatja meg a 2 másodpercet.
+
+#### Kapacitás
+A szoftvernek képesnek kell lennie egyszerre több ezer aktív felhasználó kezelésére anélkül, hogy a teljesítmény csökkenne észrevehetően.
+
+#### Erőforrás igények
+- Processzor sebessége: Legalább 1,0 GHz-es processzor ajánlott, ami alkalmas a szöveges adatok és képek kezelésére.
+- Memória igény: Legalább 2 GB RAM ajánlott az alkalmazás futtatásához és az egyszerre több feladat kezeléséhez.
+- Tárhely: Az alkalmazás telepítéséhez szükséges minimális tárhely igény 100 MB.
+- Sávszélesség: Egy stabil, alacsony sávszélességű internetkapcsolat (legalább 10 Mbps) elegendő az alkalmazás használatához.
