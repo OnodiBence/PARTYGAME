@@ -150,7 +150,10 @@ A funkcionális modell a dinamikus modell akcióiból, és a statikus modell osz
 
 ### **3. Adatmodellek**
 ### **3.1. Adatbázis kezelő kiválasztása**
+Az alkalmazás adatbázisához a MySQL adatbázis-kezelő rendszert használjuk. A MySQL nyílt forráskódú, ingyenesen elérhető, és ezáltal csökkenti a projekt költségeit, továbbá széles körben dokumentált, ami segít a fejlesztőknek rendszer megismerésében és fenntartásában.
 ### **3.2. Szemantikai adatmodell**
+![Szemantikai adatmodell](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/szemantikaimodell.png)
 ### **3.3 Relációs adatmodell**
+![Relációs adatmodell](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/rel%C3%A1ci%C3%B3modell.png)
 ### **3.4. Az adatbázis kezelővel kapcsolatot tartó osztályok**
 ### **4. A funkcionális modell kiegészítése**
