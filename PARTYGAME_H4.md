@@ -18,13 +18,23 @@
 3. Szótár
 
 #### Analízis modell tartalma
-1. Bevezetés
-2. Kezdeti osztálydiagram
-2.1 Osztálydiagram
-2.2 Osztályok felsorolása
-2.3 Alrendszerek
-6. Az első alrendszer modellje
-7. Mellékletek
+>1. Bevezetés
+>2. Kezdeti osztálydiagram
+>2.1 Osztálydiagram
+>2.2 Osztályok felsorolása
+>2.3 Alrendszerek
+3. Az első alrendszer modellje
+3.1 Statikus modell
+3.1.1 Kapcsolatok pontosítása
+3.1.2 Attribútumok azonosítása
+3.1.3 Bázisosztályok keresése
+>3.2. Dinamikus modell
+3.3. Funkcionális modell
+3.4. Operációk azonosítása
+3.5 Az analízis modell osztálydiagramja
+3.6. Az analízis modell osztályainak listája
+3.6.1 Első osztály neve
+3.6.2. Második osztály neve
 
 #### Rendszertervezés tartalma
 1. Bevezetés
