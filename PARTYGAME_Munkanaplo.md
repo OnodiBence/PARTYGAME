@@ -32,11 +32,11 @@
 #### H3 elkészítésének naplózása
 |NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
 | :-: | :-: | :-: | :-: |
-|Ónodi Bence|RYSNLC||%|
-|Gáspár Fanni|VFX06G||%|
-|Baffi Réka|F4IIYA||%|
-|Csőre Margaréta|G50NCO||%|
-|Karajz Bence|RKFHE0||%|
+|Ónodi Bence|RYSNLC|Bevezetés; Áttekintés; A rendszer funkciói; Használhatóság|20%|
+|Gáspár Fanni|VFX06G|Interfészek, Online dokumentáció és help rendszer|20%|
+|Baffi Réka|F4IIYA|Támogatottság, Felhasznált kész komponensek|20%|
+|Csőre Margaréta|G50NCO|Tervezési korlátozások, Interfészek|20%|
+|Karajz Bence|RKFHE0|Megbízhatóság; Teljesítmény|20%|
 
 #### H4 elkészítésének naplózása
 |NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
