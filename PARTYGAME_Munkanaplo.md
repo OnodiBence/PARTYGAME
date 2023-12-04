@@ -23,11 +23,11 @@
 #### H2 elkészítésének naplózása
 |NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
 | :-: | :-: | :-: | :-: |
-|Ónodi Bence|RYSNLC||%|
-|Gáspár Fanni|VFX06G||%|
-|Baffi Réka|F4IIYA||%|
-|Csőre Margaréta|G50NCO||%|
-|Karajz Bence|RKFHE0||%|
+|Ónodi Bence|RYSNLC|A probléma megfogalmazása, A termék helye|20%|
+|Gáspár Fanni|VFX06G|Felhasználói környezet, A termék használatának előnyei|20%|
+|Baffi Réka|F4IIYA|Feltételezések és függőségek, Kapcsolattartás|20%|
+|Csőre Margaréta|G50NCO|Minőségi elvárások, Kockázat lista|20%|
+|Karajz Bence|RKFHE0|Szótár, A végtermék jellemzői|20%|
 
 #### H3 elkészítésének naplózása
 |NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
