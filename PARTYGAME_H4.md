@@ -13,6 +13,11 @@
 |Karajz Bence|RKFHE0|karajzbence2000@gmail.com|
 
 #### H4 tartalma
+1. Analízis modell
+2. Rendszertervezés
+3. Szótár
+
+#### Analízis modell tartalma
 1. Bevezetés
 2. Kezdeti osztálydiagram
 2.1 Osztálydiagram
@@ -21,6 +26,16 @@
 6. Az első alrendszer modellje
 7. Mellékletek
 
+#### Rendszertervezés tartalma
+1. Bevezetés
+2. Felhasználói felület
+3. Adatmodellek
+3.1 Adatbázis kezelő kiválasztása
+3.2  Szemantikai adatmodell
+3.3  Relációs adatmodell
+3.4 Az adatbázis kezelővel kapcsolatot tartó osztályok
+4. A funkcionális modell kiegészítése
+   
 #### H4 elkészítésének naplózása
 |NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
 | :-: | :-: | :-: | :-: |
@@ -29,6 +44,8 @@
 |Baffi Réka|F4IIYA||20%|
 |Csőre Margaréta|G50NCO||20%|
 |Karajz Bence|RKFHE0||20%|
+
+## Analízis modell
 
 ### **1. Bevezetés**
 Ebben a dokumentumban foglaljuk mindazon információkat, amelyek a PARTYGAME alkalmazás tervezése során eddig megfogalmazódott és körvonalazódott, amelyek a szoftver implementációjának szempontjából elengethetetlenül fontosak. Ez a dokumentum a felhasználói felület részletesebb leírását tartalmazza,  továbbá az adatbázis hierarchikus felépítését, a programba való integrálását és az azt kezelő modellek részleteit is. Ez a dokumentum minden felhasználónak vagy érdeklődőnek bepillantást enged az elképzelt mobilalkalmazás működésébe, hogy az alkalmazáson belüli és kívüli minden elem biztonságosan, az irányelveknek megfelelően, hibamentesen működjön.
@@ -90,7 +107,7 @@ A NotificationCenter-ben adjuk meg, hogy mit mikor hogyan kell küldeni, viszont
 ###### 2.3.4 App - Algorithms: 
 Különböző kereső, analizáló algoritmusokat használ az App az Algorithms osztályon keresztül.
 
-### **3. Adatmodellek**
+### **3. Az első alrendszer modellje**
 #### **3.1 Statikus modell**
 ##### 3.1.1 Kapcsolatok pontosítása
 ##### 3.1.2 Attribútumok azonosítása
@@ -103,10 +120,18 @@ Különböző kereső, analizáló algoritmusokat használ az App az Algorithms 
 A funkcionális modell a dinamikus modell akcióiból, és a statikus modell osztályaiból áll össze.
 
 #### **3.4. Operációk azonosítása**
-
-
-#### **3.5. Az analízis modell osztályainak listája**
+#### **3.5. Az analízis modell osztálydiagramja**
 ###### USER
 
 #### **3.6. Az analízis modell osztályainak listája**
 ##### 3.6.1 Első osztály neve
+
+## Rendszertervezés
+### **1. Bevezetés**
+### **2. Felhasználói felület**
+### **3. Adatmodellek**
+### **3.1. Adatbázis kezelő kiválasztása**
+### **3.2. Szemantikai adatmodell**
+### **3.3 Relációs adatmodell**
+### **3.4. Az adatbázis kezelővel kapcsolatot tartó osztályok**
+### **4. A funkcionális modell kiegészítése**
