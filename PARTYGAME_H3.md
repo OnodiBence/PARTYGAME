@@ -22,9 +22,9 @@
 1. Támogatottság
 1. Tervezési korlátozások
 >1. Online dokumentáció és help rendszer
-1. Felhasznált kész komponensek
+>1. Felhasznált kész komponensek
 >1. Interfészek
-1. Alkalmazott szabványok
+>1. Alkalmazott szabványok
 1. Mellékletek
 
 #### H3 elkészítésének naplózása
@@ -134,6 +134,37 @@ A szoftvernek képesnek kell lennie egyszerre több ezer aktív felhasználó ke
 ### **Online dokumentáció és Help rendszer**
 Online útmutató és Help rendszer minden támogatott nyelven. Ingyenes ügyfeleknek e-mail segítségnyújtás. Prémium ügyfeleknek online chat támogatás. Munkaidőn kívül chatbot a chat szolgáltatásban. Gyakran ismételt kérdések szekció az összes felhasználó számára. Az alkalmazásfejlesztő vagy csapat segít a beállításokban és testreszabásban.
 
+### **Felhasznált kész komponensek**
+
+#### Felhasználói felület (UI): 
+A felhasználói felület a felhasználók által látott rész, ahol a felhasználók böngészhetik a házibulikat, létrehozhatnak bulikat, és kommunikálhatnak más felhasználókkal. Ez tartalmazhat webes vagy mobilalkalmazásokat, valamint azok kinézetét és felhasználói élményét meghatározó elemeit.
+
+#### Adatbázisrendszer: 
+Az adatbázisrendszer tárolja az alkalmazás adatait, például a bulikat, a felhasználók profiljait, az értesítéseket stb.
+
+#### Felhasználói hitelesítés és azonosítás: 
+Az alkalmazásnak támogatnia kell a felhasználók regisztrációját, bejelentkezését, jelszókezelést és egyéb felhasználói hitelesítési funkciókat.
+
+#### Közösségi funkciók: 
+Ezek a funkciók lehetővé teszik a felhasználók számára, hogy kommunikáljanak egymással, például üzenetküldés, chat, hozzászólások és értékelések.
+
+#### Helyszín- és térképintegráció: 
+Az alkalmazásnak lehetőséget kell nyújtania a felhasználóknak, hogy meghatározzák a buli helyszínét és találkozzanak a közelben lévőkkel. Ehhez térképek és helyszínalapú szolgáltatások integrálása szükséges.
+
+#### Értesítések: 
+Az alkalmazásnak tudnia kell értesítéseket küldeni a felhasználóknak, például a bulikhoz való csatlakozásról vagy új üzenetekről.
+
+#### Biztonsági és adatvédelmi funkciók: 
+Az alkalmazásnak gondoskodnia kell a felhasználói adatok biztonságáról és az adatvédelmi irányelvek betartásáról, beleértve az adatok titkosítását és a hozzáférési jogosultságok kezelését.
+
+#### Keresés és szűrés: 
+A felhasználóknak lehetővé kell tenni a bulik keresését és szűrését, például hely, dátum vagy kategória alapján.
+
+#### Tesztelés és hibajavítás: 
+A teszteléshez és hibajavításhoz használt komponensek, beleértve az egységteszteket, az integrációs teszteket és a hibajavítás folyamatát.
+
+###### Ezen komponensek és modulok összetett rendszert alkothatnak, amelyek együttműködnek a PartyGame alkalmazás megvalósításához.
+
 ### **Interfészek**
 #### 1. Bejelentkezés/Regisztráció:
 - Kezdőképernyőn lehetőség van bejelentkezésre vagy regisztrációra.
@@ -185,3 +216,16 @@ Beállítások kezelése, például fiókinformációk és értesítési beáll�
 Könnyű kereső és szűrési lehetőségek a bulik között, például hely, dátum és résztvevők szám szerint.
 
 Fontos, hogy az alkalmazás felhasználói interfésze intuitív és könnyen kezelhető legyen, és az elemek legyenek könnyen elérhetők a felhasználók számára. Emellett vegye figyelembe az esztétikai szempontokat is, hogy vonzó és szórakoztató legyen az alkalmazás használata.
+
+### **Alkalmazott szabványok**
+Alkalmazott szabványok az alkalmazásfejlesztés során általában olyan iránymutatásokat és elveket jelentenek, amelyeket követni kell az alkalmazás minőségének és biztonságának biztosítása érdekében. Az alkalmazott szabványok az adott projekttől, a kiválasztott technológiáktól és az ipartól függően változhatnak, de néhány általános szabvány és elv a következők lehetnek:
+
+1. Felhasználói élmény (UX) szabványok
+2. Biztonsági szabványok
+3. Teljesítmény szabványok
+4. Kódolási szabványok
+5. Interoperabilitás és kompatibilitás
+6. Tesztelési és minőségbiztosítási szabványok
+7. Nyelvi és kulturális szabványok
+
+Ezen szabványok és elvek betartása segíthet az alkalmazás minőségének és megbízhatóságának javításában, és hozzájárulhat a felhasználók elégedettségéhez. Az alkalmazásfejlesztés során fontos az adott projekthez és piachoz illeszkedő szabványok meghatározása és követése.
