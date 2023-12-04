@@ -77,18 +77,17 @@ Az alkalmazás fejlett értesítő központját tartalmazza.
 Az alkalmazás fejlett értesítő központjának a háttérben futó algoritmusait futtatja.
 
 #### **2.3 Alrendszerek**
-##### 2.3.1 Felhasználókat kezelő alrendszer
 ![Alrendszerek](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/Alrendszerek.jpg)
-###### Database - DatabaseHandler:
+###### 2.3.1 Database - DatabaseHandler:
 A program tárolt adatainak kezelése az eléréstől a módosításig. A DatabaseHandler a Database-től kapja a feladatot amit végre kell hajtania.
 
-###### User - UserHandler: 
+###### 2.3.2 User - UserHandler: 
 Az adatbázisból megkapja a beléptetett User adatait. A User-ről bizonyos adatokat ment le használat során, amit a UserHandler kezel le az adatbázisban.
 
-###### NotificationCenter - NotificationCenterHandler: 
+###### 2.3.3 NotificationCenter - NotificationCenterHandler: 
 A NotificationCenter-ben adjuk meg, hogy mit mikor hogyan kell küldeni, viszont azt a NotificationCenterHandler hajtja végre.
 
-###### App - Algorithms: 
+###### 2.3.4 App - Algorithms: 
 Különböző kereső, analizáló algoritmusokat használ az App az Algorithms osztályon keresztül.
 
 ### **3. Adatmodellek**
