@@ -144,7 +144,7 @@ A funkcionális modell a dinamikus modell akcióiból, és a statikus modell osz
 #### Regisztráció
 ![Regisztráció](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/regiszt%C3%A1ci%C3%B3.png)
 #### Bejelentkezés
-![Bejelentkezés](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/bejelentkezes.png)
+![Bejelentkezés](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/bejelentkezes_.png)
 #### Főképernyő
 ![Főképernyő](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/f%C5%91k%C3%A9perny%C5%91.png)
 
