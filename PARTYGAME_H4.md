@@ -139,6 +139,11 @@ A funkcionális modell a dinamikus modell akcióiból, és a statikus modell osz
 ## Rendszertervezés
 ### **1. Bevezetés**
 ### **2. Felhasználói felület**
+![Dinamikus modell](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/kezd%C5%91k%C3%A9perny%C5%91.png)
+![Dinamikus modell](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/regiszt%C3%A1ci%C3%B3.png)
+![Dinamikus modell](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/bejelentkezes.png)
+![Dinamikus modell](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/f%C5%91k%C3%A9perny%C5%91.png)
+
 ### **3. Adatmodellek**
 ### **3.1. Adatbázis kezelő kiválasztása**
 ### **3.2. Szemantikai adatmodell**
