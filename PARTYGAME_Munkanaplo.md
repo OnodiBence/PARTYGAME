@@ -11,16 +11,6 @@
 |Csőre Margaréta|G50NCO|csmargareta2001@gmail.com|
 |Karajz Bence|RKFHE0|karajzbence2000@gmail.com|
 
-#### H1 tartalma
-1. Csoport tagjai, struktúrája
-1. Fejlesztési terv: mérföldkövek, eredmények
-1. Programozói nyelvek, fejlesztő eszközök
-1. Használni tervezett eszközök, technikák
-1. Leendő produktumok (dokumentum), és létrejöttük ideje
-1. Tesztelési követelmények
-1. Bemutatás (demó) és szállítás módja, ideje
-1. Információforrások
-
 #### H1 elkészítésének naplózása
 |NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
 | :-: | :-: | :-: | :-: |
@@ -31,6 +21,33 @@
 |Karajz Bence|RKFHE0|Programozói nyelvek, fejlesztő eszközök; Markdown fájl létrehozása|20%|
 
 #### H2 elkészítésének naplózása
+|NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
+| :-: | :-: | :-: | :-: |
+|Ónodi Bence|RYSNLC||%|
+|Gáspár Fanni|VFX06G||%|
+|Baffi Réka|F4IIYA||%|
+|Csőre Margaréta|G50NCO||%|
+|Karajz Bence|RKFHE0||%|
+
+#### H3 elkészítésének naplózása
+|NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
+| :-: | :-: | :-: | :-: |
+|Ónodi Bence|RYSNLC||%|
+|Gáspár Fanni|VFX06G||%|
+|Baffi Réka|F4IIYA||%|
+|Csőre Margaréta|G50NCO||%|
+|Karajz Bence|RKFHE0||%|
+
+#### H4 elkészítésének naplózása
+|NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
+| :-: | :-: | :-: | :-: |
+|Ónodi Bence|RYSNLC||%|
+|Gáspár Fanni|VFX06G||%|
+|Baffi Réka|F4IIYA||%|
+|Csőre Margaréta|G50NCO||%|
+|Karajz Bence|RKFHE0||%|
+
+#### H5 elkészítésének naplózása
 |NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
 | :-: | :-: | :-: | :-: |
 |Ónodi Bence|RYSNLC||%|
