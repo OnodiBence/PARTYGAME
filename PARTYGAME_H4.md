@@ -139,14 +139,29 @@ A funkcionális modell a dinamikus modell akcióiból, és a statikus modell osz
 ## Rendszertervezés
 ### **1. Bevezetés**
 ### **2. Felhasználói felület**
-#### Kezdőképernyő
+A felhasználói felület kialakítása során fontos, hogy könnyen érthető és logikus legyen, mivel ez az, amit a felhasználó a szoftverből tapasztal. Az alkalmazás mobilverziójának tervezésekor elsődleges szempontunk a felhasználóbarátság és az egyszerűség. A felhasználói felület fő részei közé tartozik a bejelentkezési felület, ahol a felhasználó hozzáférhet fiókjához és kapcsolatba léphet az ügyfélszolgálattal, valamint a beállítási felület, ahol a felhasználó testre szabhatja az alkalmazással kapcsolatos beállításokat.
+
+#### 2.1 Kezdőképernyő
+A felhasználóknak lehetőségük van belépni a fiókjukba, vagy regisztrálni, ha még nem rendelkeznek fiókkal. A bejelentkezési folyamat egyszerű, a regisztráció pedig könnyen elérhető. A bejelentkezés után a felhasználó a főmenübe kerül, ahol további funkciókhoz fér hozzá.
 ![Kezdőképernyő](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/kezd%C5%91k%C3%A9perny%C5%91.png)
-#### Regisztráció
+
+#### 2.2 Regisztráció
+A felhasználók könnyedén tudnak regisztrálni, szükségük van egy felhasználónévre és egy erős jelszóra, megkell adniuk egy e-mail címet, amiben később megerősítik a regisztrációjukat. Hozzá adhatnak profilképet is, valamint lehetséges valamelyik közösségi média segítségével is regisztrálni, mint például Facebook, Instagram vagy G-mail.
 ![Regisztráció](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/regiszt%C3%A1ci%C3%B3.png)
-#### Bejelentkezés
+
+#### 2.3 Bejelentkezés
+A felhasználók itt tudnak bejelentkezni a már létrehozott fiókjukba. Itt szükséges megadni a felhasználónevüket és jelszavukat. Ha elfelejtették a jelszót, itt is lehetőség van újat kérni.
 ![Bejelentkezés](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/bejelentkezes_.png)
-#### Főképernyő
+#### 2.4 Főképernyő
+Miután sikeresen bejelentkeztünk az alkalmazásba, a főképernyőn kiválaszthatjuk, hogy éppen mit szeretnénk csinálni. Lehetőségünk van új bulit létrehozni vagy böngészhetünk a közeljövőben tartandó bulik és események között. Ezeken kívül résztvevőket is kereshetünk az alkalmazásban.
 ![Főképernyő](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/f%C5%91k%C3%A9perny%C5%91.png)
+
+#### 2.5 Buli szervezése:
+Ha a buli szervezését választottuk ki, ott megkell adnunk egy frappáns nevet, amiből mindenki rájöhet, hogy milyen stílusú összejövetelről van szó, a helyszínt, időpontot és adhatunk egy rövid leírást is. A résztvevőkhöz hozzáadhatod a barátaidat, akikkel együtt szervezed az eseményt, egyben meg is hívhatod rá az ismerőseidet, így ők értesítést fognak kapni róla. A felhasználói felület célja, hogy intuitív legyen, és könnyen áttekinthetővé tegye az alkalmazást, ahol a tervezett funkciók mintát adnak a későbbi kiadások kinézetéről.
+![Buli szervezése](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/buli_szervez%C3%A9s.png)
+
+#### 2.6 Bulik böngészése:
+Böngészhetsz az események között, itt ha kiválasztasz egyet, akkor megjelennek az adatok, valamint, ha további információra van szükséged, azt is megtekintheted.
 
 ### **3. Adatmodellek**
 ### **3.1. Adatbázis kezelő kiválasztása**
