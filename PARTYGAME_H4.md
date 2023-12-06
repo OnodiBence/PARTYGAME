@@ -184,6 +184,7 @@ Ha a buli szervezését választottuk ki, ott megkell adnunk egy frappáns nevet
 
 #### 2.6 Bulik böngészése:
 Böngészhetsz az események között, itt ha kiválasztasz egyet, akkor megjelennek az adatok, valamint, ha további információra van szükséged, azt is megtekintheted.
+![Buli böngészése](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/T%C3%A9rk%C3%A9p.png)
 
 ### **3. Adatmodellek**
 ### **3.1. Adatbázis kezelő kiválasztása**
