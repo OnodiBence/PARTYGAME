@@ -134,7 +134,28 @@ A funkcionális modell a dinamikus modell akcióiból, és a statikus modell osz
 ###### USER
 
 #### **3.6. Az analízis modell osztályainak listája**
-##### 3.6.1 Első osztály neve
+
+![Register class](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/register.PNG)
+
+![Login class](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/login.PNG)
+
+![User class](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/user.PNG)
+
+![Admin class](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/admin.PNG)
+
+![App class](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/app.PNG)
+
+![Database class](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/database.PNG)
+
+![DatabaseHandler class](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/databaseHandler.PNG)
+
+![Algorithms class](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/algorithms.PNG)
+
+![ExternalManager class](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/externalManager.PNG)
+
+![NotificationCenter class](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/notificationCenter.PNG)
+
+![NotificationCenterHandler class](https://github.com/OnodiBence/PARTYGAME/blob/main/assets/notificationCenterHandler.PNG)
 
 ## Rendszertervezés
 ### **1. Bevezetés**
