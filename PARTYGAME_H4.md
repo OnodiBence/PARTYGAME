@@ -159,6 +159,7 @@ A funkcionális modell a dinamikus modell akcióiból, és a statikus modell osz
 
 ## Rendszertervezés
 ### **1. Bevezetés**
+Ez a dokumentum a felhasználói felület részletesebb leírását tartalmazza, grafikus elemek hozzáadásával. Tartalmazza továbbá az adatbázis hierarchikus felépítését, a programba való integrálását és az azt kezelő modellek részleteit is. Ez a dokumentum minden felhasználónak vagy érdeklődőnek bepillantást enged az elképzelt mobilalkalmazás működésébe, hogy az alkalmazáson belüli és kívüli minden elem biztonságosan, az irányelveknek megfelelően, hibamentesen működjön.
 ### **2. Felhasználói felület**
 A felhasználói felület kialakítása során fontos, hogy könnyen érthető és logikus legyen, mivel ez az, amit a felhasználó a szoftverből tapasztal. Az alkalmazás mobilverziójának tervezésekor elsődleges szempontunk a felhasználóbarátság és az egyszerűség. A felhasználói felület fő részei közé tartozik a bejelentkezési felület, ahol a felhasználó hozzáférhet fiókjához és kapcsolatba léphet az ügyfélszolgálattal, valamint a beállítási felület, ahol a felhasználó testre szabhatja az alkalmazással kapcsolatos beállításokat.
 
