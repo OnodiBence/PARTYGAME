@@ -25,7 +25,6 @@
 >1. Felhasznált kész komponensek
 >1. Interfészek
 >1. Alkalmazott szabványok
-1. Mellékletek
 
 #### H3 elkészítésének naplózása
 |NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
