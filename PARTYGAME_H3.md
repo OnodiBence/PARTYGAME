@@ -19,8 +19,8 @@
 >1. Használhatóság
 >1. Megbízhatóság
 >1. Teljesítmény
-1. Támogatottság
-1. Tervezési korlátozások
+>1. Támogatottság
+>1. Tervezési korlátozások
 >1. Online dokumentáció és help rendszer
 >1. Felhasznált kész komponensek
 >1. Interfészek
