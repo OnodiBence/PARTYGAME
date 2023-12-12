@@ -22,11 +22,11 @@
 #### H5 elkészítésének naplózása
 |NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
 | :-: | :-: | :-: | :-: |
-|Ónodi Bence|RYSNLC|Bevezetés; |20%|
-|Gáspár Fanni|VFX06G||20%|
-|Baffi Réka|F4IIYA||20%|
-|Csőre Margaréta|G50NCO||20%|
-|Karajz Bence|RKFHE0||20%|
+|Ónodi Bence|RYSNLC|Bevezetés; Saját tesztek megírása|20%|
+|Gáspár Fanni|VFX06G|Általános szoftvertesztelési szempontok: Funkcionális követelmények tesztelése; Saját tesztek megírása|20%|
+|Baffi Réka|F4IIYA|Általános szoftvertesztelési szempontok: Nem-funkcionális követelmények tesztelése; Saját tesztek megírása|20%|
+|Csőre Margaréta|G50NCO|Általános szoftvertesztelési szempontok: Karbantartás; Saját tesztek megírása|20%|
+|Karajz Bence|RKFHE0|A tesztek jelentősége; Saját tesztek megírása|20%|
 
 ### **1. Bevezetés**
 Annak érdekében, hogy alkalmazásunk hibátlanul fusson, és megfeleljen a felhasználók igényeinek, tesztelési folyamatokat kell végrehajtani. Az imént említett folyamat biztosítja, hogy a szoftver az elvárásoknak megfelelően működjön a kiadáskor. A tesztelés során olyan hibák derülhetnek ki, amelyek időben kijavíthatók és így hosszú távon nem okoznak komoly anyagi kárt. A modulokat egyenként és a modulok közötti kommunikációt, valamint a teljes programot kell tesztelni.
