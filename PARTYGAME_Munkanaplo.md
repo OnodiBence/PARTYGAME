@@ -50,8 +50,8 @@
 #### H5 elkészítésének naplózása
 |NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
 | :-: | :-: | :-: | :-: |
-|Ónodi Bence|RYSNLC||%|
-|Gáspár Fanni|VFX06G||%|
-|Baffi Réka|F4IIYA||%|
-|Csőre Margaréta|G50NCO||%|
-|Karajz Bence|RKFHE0||%|
+|Ónodi Bence|RYSNLC|Bevezetés; Saját tesztek megírása|20%|
+|Gáspár Fanni|VFX06G|Általános szoftvertesztelési szempontok: Funkcionális követelmények tesztelése; Saját tesztek megírása|20%|
+|Baffi Réka|F4IIYA|Általános szoftvertesztelési szempontok: Nem-funkcionális követelmények tesztelése; Saját tesztek megírása|20%|
+|Csőre Margaréta|G50NCO|Általános szoftvertesztelési szempontok: Karbantartás; Saját tesztek megírása|20%|
+|Karajz Bence|RKFHE0|A tesztek jelentősége; Saját tesztek megírása|20%|
