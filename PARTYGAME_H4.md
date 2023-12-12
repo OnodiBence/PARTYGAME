@@ -13,9 +13,9 @@
 |Karajz Bence|RKFHE0|karajzbence2000@gmail.com|
 
 #### H4 tartalma
-1. Analízis modell
-2. Rendszertervezés
-3. Szótár
+>1. Analízis modell
+>2. Rendszertervezés
+>3. Szótár
 
 #### Analízis modell tartalma
 >1. Bevezetés
@@ -23,7 +23,7 @@
 >2.1 Osztálydiagram
 >2.2 Osztályok felsorolása
 >2.3 Alrendszerek
-3. Az első alrendszer modellje
+>3. Az első alrendszer modellje
 3.1 Statikus modell
 3.1.1 Kapcsolatok pontosítása
 3.1.2 Attribútumok azonosítása
@@ -37,14 +37,14 @@
 3.6.2. Második osztály neve
 
 #### Rendszertervezés tartalma
-1. Bevezetés
-2. Felhasználói felület
-3. Adatmodellek
+>1. Bevezetés
+>2. Felhasználói felület
+>3. Adatmodellek
 3.1 Adatbázis kezelő kiválasztása
 3.2  Szemantikai adatmodell
 3.3  Relációs adatmodell
 3.4 Az adatbázis kezelővel kapcsolatot tartó osztályok
-4. A funkcionális modell kiegészítése
+>4. A funkcionális modell kiegészítése
    
 #### H4 elkészítésének naplózása
 |NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
