@@ -49,11 +49,11 @@
 #### H4 elkészítésének naplózása
 |NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
 | :-: | :-: | :-: | :-: |
-|Ónodi Bence|RYSNLC|Bevezetés; |20%|
-|Gáspár Fanni|VFX06G||20%|
-|Baffi Réka|F4IIYA||20%|
-|Csőre Margaréta|G50NCO||20%|
-|Karajz Bence|RKFHE0||20%|
+|Ónodi Bence|RYSNLC|Bevezetés; Kezdeti osztálydiagram|20%|
+|Gáspár Fanni|VFX06G|Az első alrendszer modellje|20%|
+|Baffi Réka|F4IIYA|Az első alrendszer modellje|20%|
+|Csőre Margaréta|G50NCO|Felhasználói felület|20%|
+|Karajz Bence|RKFHE0|Adatmodellek|20%|
 
 ## Analízis modell
 
