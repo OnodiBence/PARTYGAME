@@ -15,6 +15,9 @@
 #### H5 tartalma
 1. Bevezetés
 2. Általános szoftvertesztelési szempontok
+3. A tesztek jelentősége
+4. Unit teszt
+5. Manuális teszt
 
 #### H5 elkészítésének naplózása
 |NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
@@ -37,3 +40,34 @@ Miután meghatároztuk a rendszerkövetelményeket a szoftverhez, a megfelelő r
 
 ##### Karbantartás
 Gyorsan fejlődő világunkban szinte napi rendszerességgel váltakoznak a különböző hardware-ek, platformok és operációs rendszerek, amelyeknek a kész szoftvernek mindegyikén működnie kell, hogy minél szélesebb körben lehessen élvezni az appot. Ezért csapatunk rendszeresen fogja kiadni a frissítéseket a programhoz, hogy az minél stabilabban működjön. Mivel szeretnénk később tovább bővülni különböző funkciókkal megeshet, hogy ezek a változtatások „bugokat” idézhetnek elő, legrosszabb esetben leállíthatja a programot. Ekkor ha kell, visszatérünk az előző, működő verzióra, míg a hibát teljesen ki nem javítottuk. Minden frissítés után honlapunkon elérhetővé válik, hogy milyen hibákat javítottunk ki illetve a programon belül jelezve lesz, hogy a következő frissítés hozzávetőlegesen mikorra várható.
+
+### **3. A tesztek jelentősége**
+A szoftverek összetett dolgok. Az előállításuk során a készítők kisebb egységből építenek fel nagyobbakat. Emiatt sok lehetőség van a hibázásra is. Ezért is kell már magának a fejlesztőnek vagy fejlesztő cégnek megbizonyosodnia a szoftver helyes működéséről. Illetve fontos itt még megemlíteni azt is, hogy ezzel ki tudják szűrni a későbbiekben felemrülő hiba lehetőségeket is. A tesztelés által előre feltudnak készülni esetleges hibásodásokra illetve felhasználótól érkező panaszokra is. Tehát miért is fontos tesztelni? Azért, mert ezzel sok jövőbeni problémát eltud kerülni a szoftvert fejlesztő és forgalmazó csapat és cég. Nem utolsósorban pedig a felhasználói elégedettség is sokban hozzá járul a szoftver népszerűsétéséhez.
+
+### **4. Unit teszt**
+|NÉV|NEPTUN KÓD|ESET|HIBA|HIBAÜZENET
+| :-: | :-: | :-: | :-: | :-: |
+|Ónodi Bence|RYSNLC|Regisztáció - E-mail cím ablak ellenőrzése|Üres a mező|Ezt a mezőt kötelező kitölteni!|
+|Ónodi Bence|RYSNLC|Bejelentkezés - Felhasználó ellenőrzése|Nem szerepel a e-mail cím az adatbázisban|Ilyen e-mail cím nem létezik a rendszerben|
+|Gáspár Fanni|VFX06G||||
+|Gáspár Fanni|VFX06G||||
+|Baffi Réka|F4IIYA||||
+|Baffi Réka|F4IIYA||||
+|Csőre Margaréta|G50NCO||||
+|Csőre Margaréta|G50NCO||||
+|Karajz Bence|RKFHE0||||
+|Karajz Bence|RKFHE0||||
+
+### **5. Manuális teszt**
+|NÉV|NEPTUN KÓD|ESET|Várható végkifeljet
+| :-: | :-: | :-: | :-: |
+|Ónodi Bence|RYSNLC|Alkalmazásba belépés|Bejelentkező felület (E-mail cím, jelszó, "Bejelentkezés" gomb, "Elfelejtett jelszó" gomb, "Regisztráció" gomb) megjelenése.|
+|Ónodi Bence|RYSNLC|Regisztrációs felület megnyitása|Személyes adatok (e-mail, jelszó, felhasználónév, autó típusa) megadása, megerősítő e-mail küldése.|
+|Gáspár Fanni|VFX06G||||
+|Gáspár Fanni|VFX06G||||
+|Baffi Réka|F4IIYA||||
+|Baffi Réka|F4IIYA||||
+|Csőre Margaréta|G50NCO||||
+|Csőre Margaréta|G50NCO||||
+|Karajz Bence|RKFHE0||||
+|Karajz Bence|RKFHE0||||
