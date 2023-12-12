@@ -13,11 +13,11 @@
 |Karajz Bence|RKFHE0|karajzbence2000@gmail.com|
 
 #### H5 tartalma
-1. Bevezetés
-2. Általános szoftvertesztelési szempontok
-3. A tesztek jelentősége
-4. Unit teszt
-5. Manuális teszt
+>1. Bevezetés
+>2. Általános szoftvertesztelési szempontok
+>3. A tesztek jelentősége
+>4. Unit teszt
+>5. Manuális teszt
 
 #### H5 elkészítésének naplózása
 |NÉV|NEPTUN KÓD|FELADATOK|SZÁZALÉKOS ARÁNY|
