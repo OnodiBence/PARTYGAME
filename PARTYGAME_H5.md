@@ -8,7 +8,7 @@
 | :-: | :-: | :-: |
 |Ónodi Bence|RYSNLC|onodibenc@gmail.com|
 |Gáspár Fanni|VFX06G|fanni.gaspar@gmail.com|
-|Baffi Réka|F4IIYA|baffir2@gmail.com|
+|Baffi Réka|F4IIYA|baffir02@gmail.com|
 |Csőre Margaréta|G50NCO|csmargareta2001@gmail.com|
 |Karajz Bence|RKFHE0|karajzbence2000@gmail.com|
 
@@ -48,26 +48,27 @@ A szoftverek összetett dolgok. Az előállításuk során a készítők kisebb 
 |NÉV|NEPTUN KÓD|ESET|HIBA|HIBAÜZENET
 | :-: | :-: | :-: | :-: | :-: |
 |Ónodi Bence|RYSNLC|Regisztáció - E-mail cím ablak ellenőrzése|Üres a mező|Ezt a mezőt kötelező kitölteni!|
-|Ónodi Bence|RYSNLC|Bejelentkezés - Felhasználó ellenőrzése|Nem szerepel a e-mail cím az adatbázisban|Ilyen e-mail cím nem létezik a rendszerben|
-|Gáspár Fanni|VFX06G||||
-|Gáspár Fanni|VFX06G||||
-|Baffi Réka|F4IIYA||||
-|Baffi Réka|F4IIYA||||
-|Csőre Margaréta|G50NCO||||
-|Csőre Margaréta|G50NCO||||
-|Karajz Bence|RKFHE0||||
-|Karajz Bence|RKFHE0||||
+|Ónodi Bence|RYSNLC|Bejelentkezés - Felhasználó ellenőrzése|Nem szerepel az e-mail cím az adatbázisban|Ilyen e-mail cím nem létezik a rendszerben|
+|Gáspár Fanni|VFX06G|Házibuli keresés|Nem található házibuli|Nincsenek találatok a megadott kritériumoknak megfelelően.|
+|Gáspár Fanni|VFX06G|Házibuli létrehozása|Sikertelen létrehozás|Nem sikerült létrehozni a házibulit. Kérjük, próbálja meg újra.|
+|Baffi Réka|F4IIYA|Részvétel jelentkezése|Sikertelen jelentkezés|Nem sikerült jelentkezni a házibulira. Kérjük, próbálja meg újra.|
+|Baffi Réka|F4IIYA|Felhasználói profilkép frissítése|Sikertelen frissítés|Nem sikerült frissíteni a profilképet. Kérjük, próbálja meg újra.|
+|Csőre Margaréta|G50NCO|Házibuli részleteinek megtekintése|Sikertelen megtekintés|A házibuli nem található.|
+|Csőre Margaréta|G50NCO|Házibuli lemondása|Sikertelen lemondás|Nem sikerült lemondani a részvételt. Kérjük, próbálja meg újra.|
+|Karajz Bence|RKFHE0|Értesítések fogadása|Az értesítések nem érkeznek meg|Értesítések nem elérhetőek. Kérjük, ellenőrizze az internetkapcsolatot.|
+|Karajz Bence|RKFHE0|Barátok meghívása házibulira|Sikertelen meghívás|Nem sikerült meghívni a barátokat. Kérjük, próbálja meg újra.|
 
 ### **5. Manuális teszt**
 |NÉV|NEPTUN KÓD|ESET|Várható végkifeljet
 | :-: | :-: | :-: | :-: |
 |Ónodi Bence|RYSNLC|Alkalmazásba belépés|Bejelentkező felület (E-mail cím, jelszó, "Bejelentkezés" gomb, "Elfelejtett jelszó" gomb, "Regisztráció" gomb) megjelenése.|
 |Ónodi Bence|RYSNLC|Regisztrációs felület megnyitása|Személyes adatok (e-mail, jelszó, felhasználónév, autó típusa) megadása, megerősítő e-mail küldése.|
-|Gáspár Fanni|VFX06G||||
-|Gáspár Fanni|VFX06G||||
-|Baffi Réka|F4IIYA||||
-|Baffi Réka|F4IIYA||||
-|Csőre Margaréta|G50NCO||||
-|Csőre Margaréta|G50NCO||||
-|Karajz Bence|RKFHE0||||
-|Karajz Bence|RKFHE0||||
+|Gáspár Fanni|VFX06G|Házibuli keresése és részletek megtekintése|Keressen egy házibulit az alkalmazásban, majd ellenőrizze, hogy a részleteit megfelelően meg tudja-e tekinteni.|
+|Gáspár Fanni|VFX06G|Házibuli létrehozása és megosztása|Hozzon létre egy házibulit az alkalmazásban, majd ellenőrizze, hogy sikeresen tudja-e megosztani a létrehozott bulit a barátaival.|
+|Baffi Réka|F4IIYA|Részvétel jelentkezése egy házibulira|Válasszon egy házibulit, majd jelentkezzen be rá, és ellenőrizze, hogy a részvétel sikeresen regisztrálódik-e.|
+|Baffi Réka|F4IIYA|Felhasználói profilkép frissítése|Frissítse a profilképét az alkalmazásban, majd ellenőrizze, hogy a változások sikeresen megjelennek-e a profiljában.|
+|Csőre Margaréta|G50NCO|Házibuli lemondása|Jelentkezzen le egy korábban választott házibuliról, majd ellenőrizze, hogy a lemondás sikeresen rögzítésre kerül-e.|
+|Csőre Margaréta|G50NCO|Értesítések ellenőrzése|Ellenőrizze, hogy az alkalmazás helyesen értesíti-e Önt új házibulikról vagy egyéb fontos információkról.|
+|Karajz Bence|RKFHE0|Barátok meghívása házibulira|Válasszon egy meglévő házibulit, majd próbálja meg meghívni barátait a buliba. Ellenőrizze, hogy a meghívások sikeresen elküldésre kerülnek-e, és a barátai megkapják-e az értesítést.|
+|Karajz Bence|RKFHE0|Profiladatok kezelése|Menjen a felhasználói profiljába és ellenőrizze, hogy sikeresen módosíthatja-e az alapvető profiladatokat, például a felhasználói nevet vagy a lakóhelyet. Győződjön meg róla, hogy a módosítások sikeresen elmentésre kerülnek és megjelennek a felhasználói profilban.|
+
